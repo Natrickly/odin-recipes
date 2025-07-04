@@ -1,0 +1,37 @@
+body {
+  background-color: #1c2541;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 100px;
+  width: auto;
+  background-color: #0b132b;
+  border: 1px solid #5bc0be;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.go-home {
+  background-color: #3a506b;
+  border: 1px #5bc0be solid;
+  color: #ffffff;
+  border-radius: 50px;
+  height: 80px;
+  width: 200px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+img {
+  height: 300px;
+  width: auto;
+  border-radius: 50px;
+}
+
+article {
+  margin: 0% 15%;
+}
